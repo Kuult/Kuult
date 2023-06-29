@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuult
 - 👀 I’m interested in music
-- 🌱 I’m currently learning HTML/CSS/English
+- 🌱 I’m currently learning HTML/CSS/English/React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
